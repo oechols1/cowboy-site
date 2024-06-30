@@ -1,0 +1,80 @@
+/* screen - splash-screen */
+
+.splash-screen {
+  align-items: center;
+  background-color: var(--australian-mint);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 43px 84px;
+  height: 1024px;
+  justify-content: center;
+  padding: 177px 229px;
+  position: relative;
+}
+
+.splash-screen .revolver-pistol-clip {
+  height: 282px;
+  object-fit: cover;
+  position: relative;
+  width: 212px;
+}
+
+.splash-screen .profile-pic {
+  height: 356px;
+  position: relative;
+  width: 370px;
+}
+
+.splash-screen .howdy-enter {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  justify-content: center;
+  position: relative;
+  width: 270px;
+}
+
+.splash-screen .title {
+  align-self: stretch;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 100.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.splash-screen .button {
+  cursor: pointer;
+  height: 73px;
+  position: relative;
+  width: 199px;
+}
+
+.splash-screen .overlap-group {
+  align-items: flex-start;
+  background-color: var(--chardonnay);
+  border-radius: 60px;
+  display: flex;
+  height: 73px;
+  min-width: 197px;
+  padding: 12px 38px;
+}
+
+.splash-screen .place {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 43.6px;
+  min-height: 34px;
+  text-align: center;
+  white-space: nowrap;
+  width: 121px;
+}

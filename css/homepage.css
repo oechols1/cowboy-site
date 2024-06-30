@@ -1,0 +1,561 @@
+/* screen - homepage */
+
+.homepage {
+  width: 100%; /* Full width */
+}
+
+.homepage .overlap-group8 {
+  width: 100%; /* Full width */
+}
+
+.homepage .background-box {
+  width: 100%; /* Full width */
+}
+
+.homepage .overlap-group {
+  min-width: 100%; /* Full width */
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.homepage .overlap-group8 {
+  height: 4968px;
+  position: relative;
+  width: 1442px;
+}
+
+.homepage .background-box {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 4846px;
+  position: absolute;
+  top: 122px;
+  width: 1440px;
+}
+
+.homepage .background-1-1 {
+  background-color: var(--australian-mint);
+  height: 896px;
+  width: 100vw; /* Fills the entire viewport width */
+  margin: 0;
+  padding: 0;
+}
+
+.homepage .background-2 {
+  background-color: #fcd08d; /* Orange */
+  height: 790px; /* Adjust as needed */
+  width: 100vw; /* Fills the entire viewport width */
+  margin: 0;
+  padding: 0;
+}
+
+.homepage .background {
+  background-color: var(--australian-mint);
+  height: 790px;
+  width: 100vw; /* Fills the entire viewport width */
+  margin: 0;
+  padding: 0;
+}
+
+.homepage .background-1 {
+  background-color: var(--chardonnay); /* Yellow */
+  height: 790px; /* Adjust as needed */
+  width: 100vw; /* Fills the entire viewport width */
+  margin: 0;
+  padding: 0;
+}
+
+.homepage .overlap-group {
+  align-items: center;
+  background-color: var(--chardonnay);
+  display: flex;
+  height: 122px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1440px;
+  padding: 0 539px;
+  position: absolute;
+  top: 0;
+}
+
+.homepage .title {
+  color: var(--black);
+  font-family: var(--font-family-diplomata);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: -2.61px;
+  line-height: 35.3px;
+  min-height: 72px;
+  text-align: center;
+  width: 294px;
+}
+
+.homepage .overlap-group1 {
+  height: 763px;
+  left: 252px;
+  position: absolute;
+  top: 4205px;
+  width: 963px;
+}
+
+.homepage .body-border-6 {
+  height: 586px;
+  object-fit: cover;
+  top: 177px;
+  width: 963px;
+}
+
+.homepage .uiux-text {
+  left: 116px;
+  line-height: 38.9px;
+  top: 322px;
+  width: 738px;
+}
+
+.homepage .header-border-6 {
+  height: 198px;
+  left: 333px;
+  width: 297px;
+}
+
+.homepage .uiux {
+  left: 350px;
+  line-height: 54.7px;
+  top: 61px;
+  white-space: nowrap;
+  width: 264px;
+}
+
+.homepage .overlap-group2 {
+  height: 813px;
+  left: 252px;
+  position: absolute;
+  top: 3435px;
+  width: 963px;
+}
+
+.homepage .body-border-5 {
+  height: 641px;
+  object-fit: cover;
+  top: 172px;
+  width: 963px;
+}
+
+.homepage .header-border {
+  height: 216px;
+  left: 327px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 297px;
+}
+
+.homepage .games-text {
+  left: 116px;
+  line-height: 38.9px;
+  top: 318px;
+  width: 738px;
+}
+
+.homepage .games {
+  left: 344px;
+  line-height: 54.7px;
+  top: 66px;
+  white-space: nowrap;
+  width: 264px;
+}
+
+.homepage .overlap-group3 {
+  height: 810px;
+  left: 246px;
+  position: absolute;
+  top: 2625px;
+  width: 963px;
+}
+
+.homepage .body-border-4 {
+  height: 641px;
+  object-fit: cover;
+  top: 169px;
+  width: 963px;
+}
+
+.homepage .header-border-4 {
+  height: 217px;
+  left: 324px;
+  width: 297px;
+}
+
+.homepage .music-text {
+  left: 116px;
+  line-height: 38.9px;
+  top: 328px;
+  width: 738px;
+}
+
+.homepage .music {
+  left: 341px;
+  line-height: 54.7px;
+  top: 66px;
+  white-space: nowrap;
+  width: 264px;
+}
+
+.homepage .overlap-group4 {
+  height: 809px;
+  left: 252px;
+  position: absolute;
+  top: 1835px;
+  width: 963px;
+}
+
+.homepage .body-border-3 {
+  height: 640px;
+  object-fit: cover;
+  top: 169px;
+  width: 963px;
+}
+
+.homepage .fitness-text {
+  left: 122px;
+  line-height: 38.9px;
+  top: 354px;
+  width: 738px;
+}
+
+.homepage .fitness {
+  left: 344px;
+  line-height: 54.7px;
+  top: 66px;
+  white-space: nowrap;
+  width: 264px;
+}
+
+.homepage .overlap-group5 {
+  height: 767px;
+  left: 261px;
+  position: absolute;
+  top: 1043px;
+  width: 963px;
+}
+
+.homepage .movies {
+  left: 335px;
+  line-height: 54.7px;
+  top: 66px;
+  white-space: nowrap;
+  width: 264px;
+}
+
+.homepage .body-border-2 {
+  height: 556px;
+  object-fit: cover;
+  top: 211px;
+  width: 963px;
+}
+
+.homepage .movies-text {
+  left: 113px;
+  line-height: 38.9px;
+  top: 308px;
+  width: 738px;
+}
+
+.homepage .header-border-2 {
+  height: 216px;
+  left: 318px;
+  width: 297px;
+}
+
+.homepage .overlap-group6 {
+  height: 351px;
+  left: 246px;
+  position: absolute;
+  top: 655px;
+  width: 1035px;
+}
+
+.homepage .body-border-1 {
+  height: 327px;
+  top: 0;
+  width: 1035px;
+}
+
+.homepage .intro-text {
+  left: 83px;
+  letter-spacing: 0;
+  line-height: 54.7px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 868px;
+}
+
+.homepage .overlap-group7 {
+  height: 373px;
+  left: 591px;
+  position: absolute;
+  top: 257px;
+  width: 285px;
+}
+
+.homepage .homepage-profile-pic {
+  height: 225px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 210px;
+}
+
+.homepage .header-border-1 {
+  height: 373px;
+  left: 0;
+  width: 285px;
+}
+
+.homepage .dead-or-dead {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 76px;
+  letter-spacing: -2.52px;
+  line-height: 43.6px;
+  position: absolute;
+  text-align: center;
+  top: 253px;
+  transform: rotate(-3.55deg);
+  width: 133px;
+}
+
+.homepage .deco-art {
+  align-items: flex-start;
+  display: flex;
+  gap: 470px;
+  height: 4101px;
+  left: 73px;
+  min-width: 1323px;
+  position: absolute;
+  top: 320px;
+}
+
+.homepage .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 3770px;
+  width: 431px;
+}
+
+.homepage .black-horse-left {
+  align-self: flex-end;
+}
+
+.homepage .wagon-1 {
+  margin-left: 35px;
+  margin-top: 1706px;
+}
+
+.homepage .wagon-2 {
+  margin-top: 1530px;
+}
+
+.homepage .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 4101px;
+  width: 422px;
+}
+
+.homepage .black-horse-right {
+  align-self: flex-start;
+}
+
+.homepage .dual-pistol-1 {
+  height: 196px;
+  margin-right: 27px;
+  margin-top: 409px;
+  object-fit: cover;
+  width: 196px;
+}
+
+.homepage .dual-pistol-2 {
+  height: 199px;
+  margin-top: 1375px;
+  object-fit: cover;
+  width: 199px;
+}
+
+.homepage .dual-pistol-3 {
+  height: 199px;
+  margin-top: 1413px;
+  object-fit: cover;
+  width: 199px;
+}
+
+.homepage .nav-bar {
+  align-items: flex-start;
+  display: flex;
+  gap: 92px;
+  height: 130px;
+  left: 108px;
+  min-width: 1226px;
+  position: absolute;
+  top: 104px;
+}
+
+.homepage .x-nav-box {
+  align-items: flex-start;
+  display: flex;
+  min-width: 172px;
+}
+
+.homepage .nav-container {
+  height: 130px;
+  position: relative;
+  width: 170px;
+}
+
+.homepage .nav-b {
+  cursor: pointer;
+  height: 130px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.homepage .nav-text {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 20.7px;
+  position: absolute;
+  text-align: center;
+  top: 65px;
+  width: 124px;
+}
+
+.homepage .overlap-group1-1 {
+  align-items: flex-end;
+  background-image: url(../img/nav-box-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 130px;
+  min-width: 170px;
+  padding: 38px 23px;
+}
+
+.homepage .nav-text-2 {
+  letter-spacing: 0;
+  line-height: 20.7px;
+  min-height: 27px;
+  text-align: center;
+  width: 124px;
+}
+
+.homepage .black-horse {
+  height: 310px;
+  object-fit: cover;
+  width: 367px;
+}
+
+.homepage .body-border {
+  left: 0;
+  position: absolute;
+}
+
+.homepage .fitness-1 {
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+}
+
+.homepage .games-1 {
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+}
+
+.homepage .header-border-3 {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+}
+
+.homepage .movies-1 {
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+}
+
+.homepage .music-1 {
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+}
+
+.homepage .uiux-1 {
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+}
+
+.homepage .wagon {
+  height: 112px;
+  object-fit: cover;
+  width: 127px;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.homepage {
+  width: 100%; /* Full width */
+}
+
+.container-center-horizontal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-card {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  width: 80%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.profile-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.profile-name {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.profile-details {
+  font-size: 16px;
+  color: #666;
+}

@@ -1,0 +1,40 @@
+:root { 
+  --australian-mint: #f4f5b9;
+  --black: #000000;
+  --chardonnay: #fdd08d;
+  --white: #ffffff;
+ 
+  --font-size-l: 36px;
+  --font-size-m: 32px;
+  --font-size-s: 29px;
+  --font-size-xl: 44px;
+  --font-size-xs: 17px;
+  --font-size-xxl: 83px;
+ 
+  --font-family-diplomata: "Diplomata", Helvetica;
+  --font-family-ewert: "Ewert", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+}
+.ewert-normal-black-44px {
+  color: var(--black);
+  font-family: var(--font-family-ewert);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.diplomata-normal-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-diplomata);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.diplomata-normal-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-diplomata);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
